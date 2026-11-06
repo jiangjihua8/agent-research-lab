@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研论文写作"
+  short_description: "根据已审阅的实验证据写作和修订论文，保留事实、局限与引用准确性"
+  default_prompt: "使用 $research-writing 根据已有证据修订论文，保持实验记录只读，并单列需要补证据的问题。"

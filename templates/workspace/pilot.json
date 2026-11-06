@@ -1,0 +1,11 @@
+{
+  "protocol_sha256": "",
+  "checks": [
+    {"name": "data_leakage", "status": "pending", "reason": "", "artifacts": []},
+    {"name": "metric_correctness", "status": "pending", "reason": "", "artifacts": []},
+    {"name": "evaluator_sensitivity", "status": "pending", "reason": "", "artifacts": []},
+    {"name": "gradient_or_equivalent", "status": "pending", "reason": "", "artifacts": []},
+    {"name": "tiny_overfit", "status": "pending", "reason": "", "artifacts": []},
+    {"name": "baseline_reproduction", "status": "pending", "reason": "", "artifacts": []}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topic": "",
+  "research_question": "",
+  "contribution": "",
+  "constraints": "",
+  "target_venue": "",
+  "stage": "scope",
+  "active_protocol": null,
+  "budget": {
+    "max_runs": 50,
+    "max_gpu_hours": 0,
+    "max_gpu_hours_per_run": 0,
+    "max_wall_hours": 2,
+    "max_wall_hours_per_run": 0.5
+  }
+}

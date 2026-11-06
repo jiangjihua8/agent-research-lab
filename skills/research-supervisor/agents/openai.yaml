@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研导师与阶段复盘"
+  short_description: "审视研究价值、证据缺口和资源投入，安排下一项能改变判断的实验"
+  default_prompt: "使用 $research-supervisor 复盘当前研究，给出有证据的方向判断与下一项最值得做的实验。"

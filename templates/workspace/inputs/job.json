@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "protocol_sha256": "",
+  "kind": "pilot",
+  "model_id": "",
+  "dataset_id": "",
+  "seed": 17,
+  "evaluation_split": "validation",
+  "argv": [],
+  "code_revision": "",
+  "code_artifact": "",
+  "environment_file": "artifacts/environment.txt",
+  "gpu_count": 0,
+  "timeout_seconds": 60,
+  "notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "",
+  "model_id": "",
+  "title": "",
+  "failure": "",
+  "mechanism": "",
+  "intervention": "",
+  "prediction": "",
+  "falsifier": "",
+  "alternatives": [],
+  "paper_ids": [],
+  "novelty": "",
+  "artifacts": [],
+  "minimal_test": {
+    "comparison": "",
+    "readout": "",
+    "support_if": "",
+    "stop_if": "",
+    "cost": ""
+  }
+}

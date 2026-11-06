@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 科研选题与创新讨论"
+  short_description: "将点子拆成竞争解释、真实近邻和最小判别实验，按证据决定是否值得做"
+  default_prompt: "使用 $research-ideation 评估这个 AI 研究方向，查近邻、反驳假设并给出下一项最小判别实验。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研实验与创新"
+  short_description: "先验收环境与强基线，再用最小判别实验筛选创新并完成正式验证"
+  default_prompt: "使用 $research-experiments 推进一轮实验：检查基线，检验候选假设，保存运行并做出下一步决策。"

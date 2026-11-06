@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研项目调度"
+  short_description: "读取研究状态并选择实验或写作技能，保持两类流程独立并保存交接"
+  default_prompt: "使用 $research-paper 恢复当前研究状态，按实际任务选择实验或写作技能，并推进下一步。"

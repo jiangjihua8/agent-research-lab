@@ -1,0 +1,20 @@
+{
+  "primary_metric": {"name": "", "direction": "min"},
+  "seeds": [17, 42, 2026],
+  "uncertainty": "",
+  "datasets": [],
+  "baselines": [],
+  "candidates": [],
+  "ablations": [],
+  "ablation_rationale": "",
+  "fairness": {
+    "axis": "",
+    "rationale": "",
+    "tuning_policy": "",
+    "capacity_control": "",
+    "selection_split": "validation"
+  },
+  "environment_file": "artifacts/environment.txt",
+  "evaluation_file": "artifacts/evaluate.py",
+  "stopping_rule": ""
+}

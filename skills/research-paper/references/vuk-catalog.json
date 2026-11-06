@@ -1,0 +1,391 @@
+{
+  "checked_at": "2026-11-05",
+  "author": "Vuk Rosić / Vuk 武克 / vuk_ai",
+  "discovery": {
+    "youtube_videos_page": "https://www.youtube.com/@vukrosic/videos",
+    "youtube_entries_returned": 722,
+    "bilibili_author": "https://space.bilibili.com/3546833932519662",
+    "bilibili_listing_entries_read": 50,
+    "selection": "Research-method tutorials prioritized; ordinary architecture explanations, career/marketing posts and obvious duplicates excluded. Further duplicates may exist in untranslated metadata.",
+    "limitations": [
+      "Public videos tab is not a complete channel archive including Shorts/live/private/deleted content.",
+      "YouTube individual captions/media requested sign-in; no authentication bypass attempted.",
+      "Bilibili later listing pages failed; no complete-series claim."
+    ]
+  },
+  "evidence_levels": {
+    "full_media_asr_keyframes": "Complete media transcribed locally and read; keyframe spot checks. ASR is imperfect.",
+    "user_supplied_full_transcript": "Full transcript supplied by the user; not independently re-downloaded here.",
+    "metadata_only": "Title/URL/duration only; no substantive summary or rules inferred."
+  },
+  "reviewed": [
+    {
+      "id": "main-douyin",
+      "title": "ICML 论文点子：没有教授也能自己想出来",
+      "url": "https://www.douyin.com/video/7704644044273536265",
+      "duration_metadata_seconds": 352,
+      "duration_processed_seconds": 351.878,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "83d612a29611b089c5df3ec0e230a722546577f0962e0af48fd0ea89c8cb40b7",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV1wWxA6yEck",
+      "title": "怎么选AI研究课题？写顶会论文的第一步",
+      "url": "https://www.bilibili.com/video/BV1wWxA6yEck/",
+      "duration_metadata_seconds": 736,
+      "duration_processed_seconds": 735.552,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "11b3cb34efba77b038042c8f289ec7083f3f56aca0851c4295df93ba835f18f3",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV135xr6NEzz",
+      "title": "一起写 AI 顶会论文：一步一步写 ICML 全程实录",
+      "url": "https://www.bilibili.com/video/BV135xr6NEzz/",
+      "duration_metadata_seconds": 877,
+      "duration_processed_seconds": 876.352,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "3f12de22bd36826644f8d0cfcfd3ebb71b74fe733656f0a5e17cbd18d1f7a2db",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV1eE4M6jEMv",
+      "title": "ICML 一起写AI顶会论文：给大模型加记忆，一步步来",
+      "url": "https://www.bilibili.com/video/BV1eE4M6jEMv/",
+      "duration_metadata_seconds": 897,
+      "duration_processed_seconds": 896.704,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "28491b8f74ffbef47e9dfaa8f1358b3c8214540969ad18ab4d5e450cd9001207",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV1zpcZz2E6C",
+      "title": "如何自动化 AI 研究 - Andrej Karpathy 的 Autoresearch",
+      "url": "https://www.bilibili.com/video/BV1zpcZz2E6C/",
+      "duration_metadata_seconds": 424,
+      "duration_processed_seconds": 421.952,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "64a5265899f21c36e2e1eee92ef6c36eca4fdf54de326c19eb114ad6a87478b6",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV1vfTu6uEiK",
+      "title": "只用 1 个提示词构建LLM并搭建全自动AI研究",
+      "url": "https://www.bilibili.com/video/BV1vfTu6uEiK/",
+      "duration_metadata_seconds": 950,
+      "duration_processed_seconds": 948.4373125,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "63c656cb4b1bcf2710ad3956311c19d491a5f165befd7f42f57a21210ba08a32",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "BV1kZ8x6WERM",
+      "title": "让AI连续科研一周：它能解决未解难题吗？",
+      "url": "https://www.bilibili.com/video/BV1kZ8x6WERM/",
+      "duration_metadata_seconds": 730,
+      "duration_processed_seconds": 727.7866875,
+      "evidence_level": "full_media_asr_keyframes",
+      "method": "Complete local ASR read; selected keyframes visually checked; no word-perfect transcript claim",
+      "media_sha256": "fec9a4ebd7aca29f2dfac557404d8272d78f995f6c6cb73b410264b387acdc9f",
+      "adopted_rules_document": "vuk-series.md"
+    },
+    {
+      "id": "user-video-5",
+      "title": "ICML 论文研究方法：先搭环境和评测",
+      "url": "https://www.douyin.com/video/7704356876992974089",
+      "duration_metadata_seconds": 286,
+      "evidence_level": "user_supplied_full_transcript",
+      "adopted_rules_document": "sources.md"
+    }
+  ],
+  "discovered_not_content_verified": [
+    {
+      "id": "wT-cuKttzC8",
+      "title": "How to Get ICML 2027 Research Ideas With AI",
+      "url": "https://www.youtube.com/watch?v=wT-cuKttzC8",
+      "duration_metadata_seconds": 433,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "YVBncob-cOc",
+      "title": "How To Find AI Research Ideas With AI",
+      "url": "https://www.youtube.com/watch?v=YVBncob-cOc",
+      "duration_metadata_seconds": 298,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "SfIAC6rptf0",
+      "title": "Let's Do AI Research Project Step by Step",
+      "url": "https://www.youtube.com/watch?v=SfIAC6rptf0",
+      "duration_metadata_seconds": 727,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "lMlaU-iARj8",
+      "title": "How to Choose an AI Research Topic and Get Hired at OpenAI",
+      "url": "https://www.youtube.com/watch?v=lMlaU-iARj8",
+      "duration_metadata_seconds": 758,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "Mdypf3E8lFk",
+      "title": "How To Plan Your AI Research - Questions, Hypothesis, Roadmap, Topics",
+      "url": "https://www.youtube.com/watch?v=Mdypf3E8lFk",
+      "duration_metadata_seconds": 438,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "cRtfQ6PorGo",
+      "title": "How To Research AI - Step by Step - Hypothesis, Experiments, Conclusion",
+      "url": "https://www.youtube.com/watch?v=cRtfQ6PorGo",
+      "duration_metadata_seconds": 526,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "uhK-qvp5fwk",
+      "title": "Let's Do AI Research Step by Step - Planning, Questions",
+      "url": "https://www.youtube.com/watch?v=uhK-qvp5fwk",
+      "duration_metadata_seconds": 497,
+      "discovery_category_from_title": "idea_selection",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "O_le2PraIh0",
+      "title": "How I Run Autonomous AI Research With Codex",
+      "url": "https://www.youtube.com/watch?v=O_le2PraIh0",
+      "duration_metadata_seconds": 371,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "86gkuvkzXz8",
+      "title": "7 Prompts To Setup Auto AI Research",
+      "url": "https://www.youtube.com/watch?v=86gkuvkzXz8",
+      "duration_metadata_seconds": 331,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "vX7X0TXsq6s",
+      "title": "Autonomous AI Research - Full Beginner Tutorial",
+      "url": "https://www.youtube.com/watch?v=vX7X0TXsq6s",
+      "duration_metadata_seconds": 1073,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "KOxyGdQj94A",
+      "title": "Step by Step Auto AI Research Setup - GPUs, Coding Agent, Prompts, Workflow",
+      "url": "https://www.youtube.com/watch?v=KOxyGdQj94A",
+      "duration_metadata_seconds": 1039,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "BGfFk22Mksg",
+      "title": "My Auto AI Research SETUP - Click This",
+      "url": "https://www.youtube.com/watch?v=BGfFk22Mksg",
+      "duration_metadata_seconds": 272,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "ax1TpQ8svVE",
+      "title": "How I Automated AI Research On 8+ GPUs - OpenAI Parameter Golf",
+      "url": "https://www.youtube.com/watch?v=ax1TpQ8svVE",
+      "duration_metadata_seconds": 640,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "wbrnssa9Kts",
+      "title": "Automate AI Research - 1 AI Paper / Day",
+      "url": "https://www.youtube.com/watch?v=wbrnssa9Kts",
+      "duration_metadata_seconds": 401,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "zLv2o5hRdXs",
+      "title": "I Made Fully Autonomous AI Researcher Agent - LLMs Making LLMs Better",
+      "url": "https://www.youtube.com/watch?v=zLv2o5hRdXs",
+      "duration_metadata_seconds": 620,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "Brmh5Lh3qXw",
+      "title": "Making AI That Does AI Research - Researching RoPE",
+      "url": "https://www.youtube.com/watch?v=Brmh5Lh3qXw",
+      "duration_metadata_seconds": 1164,
+      "discovery_category_from_title": "automatic_experiments",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "oj8Ny-tzPGE",
+      "title": "DeepSeek Researcher's Auto Research System Explained (side project)",
+      "url": "https://www.youtube.com/watch?v=oj8Ny-tzPGE",
+      "duration_metadata_seconds": 689,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "1EsJnSDn4CM",
+      "title": "I'm Building a Fully Open Source Distributed LLM Research System",
+      "url": "https://www.youtube.com/watch?v=1EsJnSDn4CM",
+      "duration_metadata_seconds": 461,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "n5SDWFtAclg",
+      "title": "I Built AI Autoresearch Tool",
+      "url": "https://www.youtube.com/watch?v=n5SDWFtAclg",
+      "duration_metadata_seconds": 330,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "nz8zk8tL6xg",
+      "title": "DeepSeek Researcher AutoResearch Side Project",
+      "url": "https://www.youtube.com/watch?v=nz8zk8tL6xg",
+      "duration_metadata_seconds": 342,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "NcMD6xhgW9M",
+      "title": "Let's Build Autonomous AI Research Together",
+      "url": "https://www.youtube.com/watch?v=NcMD6xhgW9M",
+      "duration_metadata_seconds": 377,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "8QOmud17lGs",
+      "title": "Write $0 AI Research Paper + Example Step by Step",
+      "url": "https://www.youtube.com/watch?v=8QOmud17lGs",
+      "duration_metadata_seconds": 647,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "yy3oTl9Kie8",
+      "title": "I'm Building Auto AI Research Tool - Progress Update",
+      "url": "https://www.youtube.com/watch?v=yy3oTl9Kie8",
+      "duration_metadata_seconds": 347,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "FL4ozXAX33w",
+      "title": "I Made DeepSeek 30% FASTER - Auto AI Research While I Sleep",
+      "url": "https://www.youtube.com/watch?v=FL4ozXAX33w",
+      "duration_metadata_seconds": 556,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "r_wW1lIP91E",
+      "title": "3 RULE To Do AI Research + Math Proofs",
+      "url": "https://www.youtube.com/watch?v=r_wW1lIP91E",
+      "duration_metadata_seconds": 1184,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "0fDtt6gsjHs",
+      "title": "$5 LLM From Scratch - Our AI Research Plan - How To Structure AI Research",
+      "url": "https://www.youtube.com/watch?v=0fDtt6gsjHs",
+      "duration_metadata_seconds": 556,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "4qmo28ww0bA",
+      "title": "How I Structure AI Research In My Lab",
+      "url": "https://www.youtube.com/watch?v=4qmo28ww0bA",
+      "duration_metadata_seconds": 297,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    },
+    {
+      "id": "FXUMISiMOTE",
+      "title": "My AI Research Setup - Code Locally, Run on Google Colab or GPU Cloud - SSH, GitHub",
+      "url": "https://www.youtube.com/watch?v=FXUMISiMOTE",
+      "duration_metadata_seconds": 1185,
+      "discovery_category_from_title": "environment_and_organization",
+      "evidence_level": "metadata_only",
+      "full_content_summary": null,
+      "used_as_rule_evidence": false
+    }
+  ],
+  "source_media_handling": "Original videos and full ASR were processed in temporary storage; this project distributes only independent notes and metadata."
+}

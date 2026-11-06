@@ -1,0 +1,18 @@
+{
+  "venue": "",
+  "year": "",
+  "track": "",
+  "policy_url": "",
+  "checked_at": "",
+  "pdf": "paper/submission.pdf",
+  "package_files": [],
+  "checks": {
+    "format": {"status": "pending", "reason": "", "artifacts": []},
+    "anonymity": {"status": "pending", "reason": "", "artifacts": []},
+    "citations": {"status": "pending", "reason": "", "artifacts": []},
+    "ai_policy": {"status": "pending", "reason": "", "artifacts": []},
+    "licenses_and_ethics": {"status": "pending", "reason": "", "artifacts": []},
+    "reproducibility": {"status": "pending", "reason": "", "artifacts": []},
+    "visual_qa": {"status": "pending", "reason": "", "artifacts": []}
+  }
+}
